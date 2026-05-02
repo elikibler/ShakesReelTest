@@ -15,8 +15,8 @@ credits: true
 ## About the Collection
 
 ShakesReel abides by [DublinCore](https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/) formatting rules and is thus limited in the ways in which it represents some data. Some pointers users should be aware of when navigating the site and digesting its data:
-- The "creator" label is for the director of the film in question, not always the play that the film captures
-- The most famous actors in a work, if not all of them, are listed as the last tags for all entrees
+- The "creator" label is for the director of the adaptation in question, not always the play that the film captures
+- The most famous actors in an adapatation, if not all of them, are listed as the last tags for all entrees
 
 This site is also generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
